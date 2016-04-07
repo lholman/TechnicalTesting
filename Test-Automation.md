@@ -8,10 +8,23 @@ Thank you for applying for a role at [Company Name], the following assessment co
 
 ## Technical Exercise
 
-[Company Name] has a website [https://github.com/lholman/portfolio-redux-app](portfolio app) that has some simple UI animations and calls the Github API
+The following website [https://github.com/lholman/portfolio-redux-app](portfolio app) provides a simple online portfolio website based on a particular users public github account. It utilises REACT and the github API. 
 
-1. Write a suite of functional tests in Cucumber syntax to cover some functionality of the site above:
-1. Implement any 2 of your tests to run in an automated fashion
+1. Write a suite of functional tests in Cucumber syntax to cover some functionality of the site above, you must include the following scenario.
+
+```
+Feature: Use the website to find out about a person 
+   So that I can decide whether to interview a person
+   As a recruiter
+   I want to know about them
+
+   Scenario:
+      Given I want to know about the person 
+      When I select 'About' in the menu 
+      Then I will see information about the person
+```
+ 
+1. Implement your suite of tests to run in an automated fashion
 
 ### Suggested timescale
 Feel free to spend as much or as little time as you like (although a guideline would be  2-3 hours), please ensure you meet the following requirements:
