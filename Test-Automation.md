@@ -1,6 +1,6 @@
-# <Company Name> Test Automation Test
+# [Company Name] Test Automation Test
 
-Thank you for applying for a role at <Company Name>, the following test consists of three parts:
+Thank you for applying for a role at [Company Name], the following test consists of three parts:
 
 * [A technical exercise](#technical-exercise) 
 * [Technical questions](#technical-questions)
@@ -8,7 +8,7 @@ Thank you for applying for a role at <Company Name>, the following test consists
 
 ## Technical Exercise
 
-<Company Name> has a website [https://github.com/lholman/portfolio-redux-app](portfolio app) that has some simple UI animations and calls the Github API
+[Company Name] has a website [https://github.com/lholman/portfolio-redux-app](portfolio app) that has some simple UI animations and calls the Github API
 
 1. Write a suite of functional tests in Cucumber syntax to cover some functionality of the site above:
 1. Implement any 2 of your tests to run in an automated fashion
