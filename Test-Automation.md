@@ -42,11 +42,12 @@ You can solve the technical test using any tools of choice, we use tools such as
 
 ## Technical Questions
 Please provide all technical questions in a markdown file
+
 1. How long did you spend on the technical test, if you would tackle it differently in hindsight, what would you have done?
 1. What would be your tools of choice for implementing a test automation framework?
 1. What areas particularly interest you in the world of test automation?
 
 ## Submitting Answers
-Please submit the full assessment as one zip file, this should be named {firstname-secondname-role-applied-for}.zip and should be emailed to whoever@whoever.com
+Please submit the full assessment as one zip file, this should be named **{firstname-secondname-role-applied-for}.zip** and should be emailed to whoever@whoever.com
 
 
