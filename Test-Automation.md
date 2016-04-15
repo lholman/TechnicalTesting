@@ -55,6 +55,6 @@ Please provide all technical questions in a markdown file
 1. What areas particularly interest you in the world of test automation?
 
 ## Submitting Answers
-Please submit the full assessment as one zip file, this should be named **{firstname-secondname-role-applied-for}.zip** and should be emailed to whoever@fitbug.com
+Please submit the full assessment as one zip file, this should be named **{firstname-secondname-role-applied-for}.zip** and should be added to the shared DropBox folder you are provided when requested to complete the test.
 
 
