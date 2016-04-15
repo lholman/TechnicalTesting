@@ -41,13 +41,10 @@ Feel free to spend as much or as little time as you like (although a guideline w
 * Provide instructions on how to run your tests for the technical exercise, clarity and accuracy of these instructions is important, please create a README file containing the instructions
 
 ### Choice of tools
-
-You can solve the technical test using any tools of choice, we use tools such as:
-* Visual Studio 
-* SpecFlow
-* Coded UI
-* Selenium WebDriver
-* Protractor
+You can solve the technical test using your tools of choice, our technology stack looks something like this:
+* AWS
+* LAMP
+* React
 
 ## Technical Questions
 Please provide all technical questions in a markdown file
