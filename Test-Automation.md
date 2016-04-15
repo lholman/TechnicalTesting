@@ -1,6 +1,6 @@
-# [Company Name] Test Automation Test
+# Fitbug Test Automation Test
 
-Thank you for applying for a role at [Company Name], the following assessment consists of three parts:
+Thank you for applying for a role at Fitbug, the following assessment consists of three parts:
 
 * [A technical exercise](#technical-exercise) 
 * [Technical questions](#technical-questions)
