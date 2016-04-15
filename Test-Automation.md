@@ -30,6 +30,8 @@ Feature: Use the app to compete in a challenge
       When I view my Team in the Leaderboard 
       Then I will see a combined 'Average team steps' count	  
 ```
+
+The 'game' name that should be used within API requests is 'fitbugdemo'
  
 1. Implement your suite of tests to run in an automated fashion
 
