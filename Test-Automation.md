@@ -8,7 +8,7 @@ Thank you for applying for a role at Fitbug, the following assessment consists o
 
 ## Technical Exercise
 
-The following website [https://github.com/lholman/portfolio-redux-app](portfolio app) provides a simple online portfolio website based on a particular users public github account. It utilises REACT and the github API. 
+The following website [http://test.my.kiqplan.com/fitbugdemo/game/fitbug-step-challenge/app](Kiqplan app) demonstrates the Fitbug step challenge. The application builds on top of the [Kiqplan API](http://test.kiqplan.com/documentation/v2/). 
 
 1. Write a suite of functional tests in Cucumber syntax to cover some functionality of the site above, you must include the following scenario.
 
