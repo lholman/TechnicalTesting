@@ -8,20 +8,27 @@ Thank you for applying for a role at Fitbug, the following assessment consists o
 
 ## Technical Exercise
 
-The following website [http://test.my.kiqplan.com/fitbugdemo/game/fitbug-step-challenge/app](Kiqplan app) demonstrates the Fitbug step challenge. The application builds on top of the [Kiqplan API](http://test.kiqplan.com/documentation/v2/). 
+The following website [Kiqplan app](http://test.my.kiqplan.com/fitbugdemo/game/fitbug-step-challenge/app) demonstrates the Fitbug step challenge. The application builds on top of the [Kiqplan API](http://test.kiqplan.com/api/v2/) which is [documented here](http://test.kiqplan.com/documentation/v2/). 
 
-1. Write a suite of functional tests in Cucumber syntax to cover some functionality of the site above, you must include the following scenario.
+You will be provided a login for the 'Kiqplan app' that will also allow you to authenticate with the API. 
+
+1. Write a suite of functional tests in Cucumber syntax to cover some functionality of the site above, you must include the following two scenarios.
 
 ```
-Feature: Use the website to find out about a person 
-   So that I can decide whether to interview a person
-   As a recruiter
-   I want to know about them
+Feature: Use the app to compete in a challenge
+   So that I can compete in a step challenge
+   As a company employee
+   I want to be part of a Team
 
    Scenario:
-      Given I want to know about the person 
-      When I select 'About' in the menu 
-      Then I will see information about the person
+      Given I am a Team member
+      When I select my Team in the Leaderboard 
+      Then I will see my 'Total steps'
+	  
+   Scenario:
+      Given I am a Team member
+      When I view my Team in the Leaderboard 
+      Then I will see a combined 'Average team steps' count	  
 ```
  
 1. Implement your suite of tests to run in an automated fashion
@@ -48,6 +55,6 @@ Please provide all technical questions in a markdown file
 1. What areas particularly interest you in the world of test automation?
 
 ## Submitting Answers
-Please submit the full assessment as one zip file, this should be named **{firstname-secondname-role-applied-for}.zip** and should be emailed to whoever@whoever.com
+Please submit the full assessment as one zip file, this should be named **{firstname-secondname-role-applied-for}.zip** and should be emailed to whoever@fitbug.com
 
 
